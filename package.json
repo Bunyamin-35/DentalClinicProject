@@ -1,0 +1,22 @@
+{
+  "name": "dental_app",
+  "version": "1.0.0",
+  "description": "Clinic Portal",
+  "main": "app.js",
+  "scripts": {
+    "start":"nodemon app.js"
+  },
+  "keywords": [
+    "clinic",
+    "portal",
+    "node.js"
+  ],
+  "author": "Bunyamin BULUT",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
